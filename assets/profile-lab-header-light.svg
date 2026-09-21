@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
+  <title id="title">Small experiments.</title>
+  <desc id="desc">低饱和纸色页眉，左侧为 Small experiments.，右侧三张错落叠放的纸页。装饰插画，非产品界面。</desc>
+  <rect width="960" height="160" rx="4" fill="#F5F4EF"/>
+  <text x="38" y="97" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-1.8" fill="#2C3633">Small experiments.</text>
+  <g fill="#F5F4EF" stroke="#CCD0C7" stroke-width="1.5">
+    <rect x="761" y="29" width="104" height="108" rx="2" transform="rotate(-13 813 83)"/>
+    <rect x="781" y="25" width="104" height="108" rx="2" transform="rotate(8 833 79)"/>
+    <rect x="790" y="24" width="104" height="108" rx="2"/>
+    <path d="M808 83h52M808 94h37M808 105h45"/>
+  </g>
+  <path d="M808 47h21v21h-21z" fill="none" stroke="#728474" stroke-width="2"/>
+  <circle cx="820" cy="55" r="3" fill="#728474"/>
+</svg>
