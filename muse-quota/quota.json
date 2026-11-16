@@ -1,11 +1,11 @@
 {
   "plan": "free",
-  "used_percent": 10,
-  "remaining_percent": 90,
+  "used_percent": 19,
+  "remaining_percent": 81,
   "reset_at": "2026-11-19T10:37:00+08:00",
-  "reset_text": "Nov 19 10:37 CST",
+  "reset_text": "Weekly limit resets Nov 19 at 10:37 AM CST",
   "extra_used_percent": 0,
   "extra_remaining_text": "31B tokens left",
-  "updated_at": "2026-11-16T03:20:08+08:00",
+  "updated_at": "2026-11-16T11:35:04+08:00",
   "source": "muse-relay-v1"
 }
