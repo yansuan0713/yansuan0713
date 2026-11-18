@@ -1,11 +1,1 @@
-{
-  "plan": "free",
-  "used_percent": 33,
-  "remaining_percent": 67,
-  "reset_at": "2026-11-19T10:37:00+08:00",
-  "reset_text": "Weekly limit resets Nov 19 at 10:37 AM CST",
-  "extra_used_percent": 0,
-  "extra_remaining_text": "31B tokens left",
-  "updated_at": "2026-11-18T06:23:50+08:00",
-  "source": "muse-relay-v1"
-}
+{"extra_remaining_text":"31B tokens left","extra_used_percent":0,"plan":"free","remaining_percent":67,"reset_at":"2026-11-19T10:37:00+08:00","reset_text":"Weekly limit resets Nov 19 at 10:37 AM CST","source":"muse-relay-v1","updated_at":"2026-11-18T09:23:45+08:00","used_percent":33}
